@@ -8,7 +8,7 @@
 Proiectul pe care trebuie să-l realizaţi este o oportunitate de a explora o problemă din domeniul Inteligentei Artificiale (AI) în contextul unor date reale. Proiectul va fi evaluat atat la finalul semestrului, cat si pe parcursul semestrului cand fiecare echipă va trebui să prezinte cadrului didactic îndrumător aplicaţia realizată şi raportul tehnic aferent ei.
 
 Proiectul implică:
-- alegerea unei teme - temele sunt prezentate [aici](2025-2026/Projects/projects.md); o tema poate fi aleasa de maxim 3 echipe
+- alegerea unei teme - temele sunt prezentate [aici](Projects/projects.md); o tema poate fi aleasa de maxim 3 echipe
 - formarea unei echipe cu N membri (N poate fi 2 sau 3) care au ales optionalul MIRPR
 - rezolvarea problemei (de invatare sau optimizare) prin N metode inteligente diferite şi analizarea rezultatelor obţinute.
 - integrarea algoritmilor inteligenti intr-o aplicatie
