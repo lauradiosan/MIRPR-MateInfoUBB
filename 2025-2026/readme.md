@@ -37,4 +37,4 @@ Trebuie realizata o prezentare video (teaser) a muncii realizate de-a lungul sem
 **Criterii de evaluare**
 Detalii despre continutul evaluarii si termenele de predare intermediare se gasesc [aici](Eval/readme.md)
 
-Situatie punctaje - [link]()
+Situatie punctaje - [link](https://ubbcluj-my.sharepoint.com/:x:/g/personal/laura_diosan_ubbcluj_ro/ETDImyxYGOZFg-1_e7YVa5EBFIbEo8afwyBXcdkCtS9adw?e=9XNQJl)
