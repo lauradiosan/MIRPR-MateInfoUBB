@@ -1,13 +1,14 @@
 
 # Teme de proiect MIRPR 2026-2027
 
-Stoma
+
 <!-- Onco - lung, breast -->
-Cristiana - Nagarro
-Farmacie
-Marsh
 <!-- cardiologie - 6 oct -->
 <!-- Voice -->
+<!-- Stoma
+Cristiana - Nagarro
+Farmacie
+Marsh -->
 
 ## Project 1
 
