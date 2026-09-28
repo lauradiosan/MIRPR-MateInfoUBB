@@ -22,7 +22,7 @@ Echipele si temele vor fi comunicate cadrelor didactice care coordoneaza activit
    
 
 **Dezvoltarea software**
-In implementarea proiectului se pot folosi diferite limbaje de programare, tehnologii si instrumente specifice AI. Codebase-urile aferente aplicatiilor trebuie incarcate, inainte de expirarea termenelor, in acest [git](https://classroom.github.com/a/3gQDHdrq). Fiecare proiect trebuie sa contina:
+In implementarea proiectului se pot folosi diferite limbaje de programare, tehnologii si instrumente specifice AI. Codebase-urile aferente aplicatiilor trebuie incarcate, inainte de expirarea termenelor, in acest [git](https://classroom50.org/LauraDiosan-CS/mirpr-2026-2027/onboard). Fiecare proiect trebuie sa contina:
   - codul si explicatiile aferente (de ex. un notebook in care celulele de cod sa alterneze cu cele de explicatii) - organizate cat mai frumos 
   - un folder cu datele folosite 
   - o pagina de garda (readme) care sa contina informatii despre: echipa care a lucrat la proiect, problema abordata si un desen/schema care sa sugereze cat mai bine solutia propusa
