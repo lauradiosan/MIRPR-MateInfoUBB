@@ -1,19 +1,10 @@
 
 # Teme de proiect MIRPR 2026-2027
 
-
-<!-- Onco - lung, breast -->
-<!-- cardiologie - 6 oct -->
-<!-- Voice -->
-<!-- Stoma
-Cristiana - Nagarro
-Farmacie
-Marsh -->
-
 ## Project 1
 
 <details>
-    <summary> Identificarea cancerului de plaman  (owner: dl. dr. Andrei Roman) 
+    <summary> Mai multe perspective, un singur diagnostic: AI pentru detectarea precoce a cancerului pulmonar  (owner: dl. dr. Andrei Roman) 
     <img src="project-images\lungCancer.jpeg" width="100">
     </summary>
 
@@ -25,13 +16,12 @@ Dezvoltarea unui sistem inteligent care să ajute medicii în diagnosticarea tim
 #### Ideea de baza
 Deși cancerul pulmonar este recunoscut ca fiind cel mai mortal tip de cancer, un prognostic bun și un tratament eficient depind de detectarea timpurie a acestuia. Povara medicilor poate fi redusa cu ajutorul tehnicilor de AI care sunt esențiale în automatizarea diagnosticului și clasificării bolilor. De aceea, se dorește dezvoltarea unui sistem inteligent care să ajute medicii în diagnosticarea timpurie a cancerului de plămân. 
 
-Se va urmari dezvoltarea unor modele inteligente capabine sa analizeze scanarile CT/PET si sa prezica diferiti biomarkeri tumorali folosind doar:
+Se va urmari dezvoltarea unor modele inteligente capabile sa analizeze scanarile CT/PET si sa prezica diferiti biomarkeri tumorali folosind doar:
 - 3D Segmented CT scans (maybe PET)
 - Biopsy confirmed IHC markers (maybe genomic too)
 - Age
 - Gender
 Scopul este construirea unei "biopsii virtuale" care să sprijine radiologii în timpul diagnosticului. 
-
 Problema poate fi abordata ca o problema de clasificare multi-label. 
 
 #### Data
@@ -53,7 +43,7 @@ Problema poate fi abordata ca o problema de clasificare multi-label.
 
 ## Project 2
 <details>
-    <summary> Identificarea cancerului de san  (owner: dl. dr. Andrei Roman) 
+    <summary> AI pentru sănătatea femeilor: Identificarea cancerului de san  (owner: dl. dr. Andrei Roman) 
         <img src="project-images\breastCancer.jpeg" width="100">
     </summary>
 
@@ -97,7 +87,7 @@ Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate
 
 ## Project 3
 <details>
-    <summary> Automatizarea intocmirii fisei pacientului  (owner: dna. dr. Alina Baciu) 
+    <summary> Vocea care scrie: Automatizarea intocmirii fisei pacientului  (owner: dna. dr. Alina Baciu) 
     <img src="project-images\voice.avif" width="150">
     </summary>
 
@@ -152,7 +142,7 @@ https://www.researchgate.net/publication/378021834_Analysis_of_Fitness_Based_on_
 - Reddy, N. C. N., Ramesh, A., Rajasekaran, R., & Masih, J. (2020, May). Ritchie’s Smart Watch Data Analytics and Visualization. In International Conference on Image Processing and Capsule Networks (pp. 776-784). Cham: Springer International Publishing.[link](https://d1wqtxts1xzle7.cloudfront.net/96645011/978-3-030-51859-2_70-libre.pdf?1672579590=&response-content-disposition=inline%3B+filename%3DRitchie_s_Smart_Watch_Data_Analytics_and.pdf&Expires=1759213247&Signature=QSkC1ZZ1hezkhPx2bnqrWfikyhAPRw8R83lYHOrsKW2GA4nfVd~kOZ-RvFPbNCPPnK9x6b66MnJYvnR1VElnEt~Nn8dsjHjiR4WpKMJ8KhfpSqKeoPoEmTSPtTo57lcLSAyLr7XL0tbdk5YpxUrrK6GcHpG7YTfUrOu9Xh2lxi~-V1DOXFkhtHqw9wtWGoniLusVXsLuGaGdQibTMUCEUmV5Cw-fISVvv170AiNH-Lb5z4yZqaunHabVBOBWQ~dhzedn~7G7PPQEdWcIBSXf~uxQDpCfXlzRQ1F-Xh2dBDZFyOru9AxMKgElC6a6f5jMIn6YLQwPTpZBiSgW~YZYEQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 - Bhavsar, K., Singhal, S., Chandel, V., Samal, A., Khandelwal, S., Ahmed, N., & Ghose, A. (2021, March). Digital biomarkers: Using smartwatch data for clinically relevant outcomes. In 2021 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) (pp. 630-635). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/9431000)
 - Del-Valle-Soto, C., Briseño, R. A., Valdivia, L. J., & Nolazco-Flores, J. A. (2024). Unveiling wearables: exploring the global landscape of biometric applications and vital signs and behavioral impact. BioData Mining, 17(1), 15. [link](https://link.springer.com/content/pdf/10.1186/s13040-024-00368-y.pdf)
-
+- Manninger, M., Lercher, I., Hermans, A. N., Isaksen, J. L., Prassl, A. J., Zirlik, A., ... & Linz, D. (2025). Machine-learning guided differentiation between photoplethysmography waveforms of supraventricular and ventricular origin. Computer Methods and Programs in Biomedicine, 267, 108798. [link](https://pubmed.ncbi.nlm.nih.gov/40294456/)
 </details>
 
 
@@ -183,31 +173,323 @@ Componenta AI poate fi utilizată pentru: segmentarea imaginilor ecografice sau 
 - Corona, S., Godefroy, T., Tastet, O., Corbin, D., Modine, T., von Bardeleben, S., ... & Ben Ali, W. (2025). Towards standardizing mitral transcatheter edge-to-edge repair with deep-learning algorithm: a comprehensive multi-model strategy. Frontiers in Network Physiology, 5, 1701758.[link](https://www.frontiersin.org/journals/network-physiology/articles/10.3389/fnetp.2025.1701758/full)
 - Messika-Zeitoun, D., Mousavi, J., Pourmoazen, M., Cotte, F., Dreyfus, J., Nejjari, M., ... & Mesana, T. (2024). Computational simulation model of transcatheter edge-to-edge mitral valve repair: a proof-of-concept study. European Heart Journal-Cardiovascular Imaging, 25(10), 1415-1422. [link](https://pubmed.ncbi.nlm.nih.gov/38801398/)
 - Simonian, N., Vakamudi, S., Pirwitz, M., & Sacks, M. (2025). 72261| Development of a Mitral Valve Digital Twin for Transcatheter Edge-to-Edge Repair. Structural Heart, 9. [link](https://www.structuralheartjournal.org/article/S2474-8706%2825%2900152-6/fulltext)
-
+- Manninger, M., Lercher, I., Hermans, A. N., Isaksen, J. L., Prassl, A. J., Zirlik, A., ... & Linz, D. (2025). Machine-learning guided differentiation between photoplethysmography waveforms of supraventricular and ventricular origin. Computer Methods and Programs in Biomedicine, 267, 108798. [link](https://pubmed.ncbi.nlm.nih.gov/40294456/)
 </details>
 
 
 
 ## Project 6
 <details>
-    <summary>  ??? <img  style="vertical-align:middle" src="project-images\?.png" alt="networks" width="100"/> </summary>
+    <summary>  AI pentru zâmbete: Identificarea tumorilor osoase maxofaciale (Owner: dna. dr. Mihaela Hedesiu) <img  style="vertical-align:middle" src="project-images\stoma1.jpg" alt="networks" width="100"/> 
+    </summary>
 
-### Title
+### Development of an AI-Based Decision Support System for Automated Detection and Classification of Maxillofacial Bone Tumors on CBCT
 
 #### Scop
-...
+Dezvoltarea unui sistem inteligent care să sprijine medicii stomatologi, radiologii și chirurgii oro-maxilo-faciali în detectarea, segmentarea și clasificarea automată a tumorilor osoase maxilo-faciale utilizând imagini CBCT (Cone Beam Computed Tomography).
 
 #### Ideea de baza
-...
+Tumorile osoase ale regiunii maxilo-faciale reprezintă o provocare diagnostică importantă din cauza diversității morfologice și a asemănărilor dintre diferite leziuni benigne și maligne. Interpretarea imaginilor CBCT necesită expertiză ridicată și este consumatoare de timp, existând riscul unor variații între evaluatori. 
+Proiectul urmărește dezvoltarea unui sistem bazat pe inteligență artificială care să analizeze volume CBCT și să ofere suport în procesul de diagnostic. Sistemul poate include mai multe componente: 
+detectarea automată a regiunilor suspecte; 
+segmentarea 2D/3D a tumorilor osoase; 
+extragerea caracteristicilor radiomice și morfologice; 
+clasificarea leziunilor în categorii precum benigne, agresive local sau maligne; 
+generarea unor explicații vizuale (heatmaps, attention maps) pentru susținerea deciziei clinice.
+
+Se vor investiga și compara metode bazate pe CNN-uri 3D, Vision Transformers și modele hibride CNN-Transformer. De asemenea, pot fi analizate tehnici de transfer learning, self-supervised learning, federated-learning și explainable AI pentru creșterea performanței și interpretabilității sistemului.
 
 #### Data
-...
+- [DOLCHID](https://github.com/ZimoHZM/DOLCHID)
+- [TCIA](https://github.com/google-deepmind/tcia-ct-scan-dataset)
+- [dataset](https://academic.oup.com/dmfr/article/53/7/439/7700742#483529840)
+
 
 #### Bibliografie
-...
+Chang H.J., Lee S.J., Yong T.H. et al. (2024). Deep learning-based detection and classification of jaw lesions on cone-beam CT images. Dentomaxillofacial Radiology [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12709009/).
+
+Ariji Y., Fukuda M., Kise Y. et al. (2019). Automatic detection and classification of radiographic findings on panoramic and CBCT images using deep learning. Oral Radiology, 35, 313-321 [link](https://pubmed.ncbi.nlm.nih.gov/31320299/).
+
+Chen J., Lu Y., Yu Q. et al. (2024). TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation. IEEE Transactions on Medical Imaging.
+Chen, J., Mei, J., Li, X., Lu, Y., Yu, Q., Wei, Q., ... & Zhou, Y. (2024). TransUNet: Rethinking the U-Net architecture design for medical image segmentation through the lens of transformers. Medical image analysis, 97, 103280 [link](https://www.sciencedirect.com/science/article/pii/S1361841524002056).
+
+
+</details>
+
+
+## Project 7
+<details>
+    <summary>  Simulator digital pentru practica dentara (Owner: dna. dr. Mihaela Hedesiu) <img  style="vertical-align:middle" src="project-images\stoma2.jpg" alt="networks" width="100"/> 
+    </summary>
+
+### AI-Driven Digital Simulator for Operational Optimization of Dental Practices
+
+#### Scop
+Dezvoltarea unui sistem stomatologic virtual care să permită simularea și optimizarea proceselor operaționale utilizând tehnici de inteligență artificială. Sistemul va sprijini managerii și medicii în luarea deciziilor privind programările, alocarea resurselor, utilizarea echipamentelor, gestionarea fluxului de pacienți și estimarea performanței cabinetului/clinice stomatologice. 
+
+#### Ideea de baza
+Clinicile stomatologice funcționează într-un mediu complex, în care performanța depinde simultan de factori clinici, operaționali și financiari. Probleme precum neprezentarea pacienților la programări (no-shows), timpii de așteptare, distribuția neuniformă a programărilor, utilizarea ineficientă a scaunelor dentare sau a personalului medical pot genera costuri semnificative și pierderi de venit. Studiile recente arată că modelele de Machine Learning pot prezice cu succes neprezentările și pot contribui la optimizarea programărilor. 
+Proiectul urmărește construirea unui sistem inteligent care reproduce virtual activitatea unei clinici stomatologice și permite simularea diferitelor scenarii operaționale: 
+estimarea fluxului zilnic de pacienți; 
+predicția anulărilor și a neprezentărilor; 
+optimizarea programărilor; 
+optimizarea încărcării medicilor și a personalului auxiliar; 
+analiza gradului de utilizare a echipamentelor; 
+simularea impactului unor decizii manageriale asupra profitabilității;
+identificarea factorilor care influențează costurile și veniturile.
+
+Se pot investiga metode de: 
+Machine Learning pentru predicție; 
+Process Mining pentru modelarea proceselor; 
+Discrete Event Simulation; 
+Reinforcement Learning pentru optimizarea deciziilor; 
+Explainable AI pentru justificarea recomandărilor oferite managerilor. 
+Sistemul poate funcționa ca un instrument de tip "what-if analysis".
+
+#### Data
+- [dataset1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9680883/#_ad93_) - Alabdulkarim, Y., Almukaynizi, M., Alameer, A., Makanati, B., Althumairy, R., & Almaslukh, A. (2022). Predicting no-shows for dental appointments. PeerJ Computer Science, 8, e1147.
+- [dataset2](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
+- [dataset3](https://data.mendeley.com/datasets/wm6w2fvkfj/1)
+- [MIMIC](https://physionet.org/content/mimiciv/)
+
+#### Bibliografie
+
+- Khashwayn, S., Bakhashwayn, M., & Alsubaie, A. (2026). Managing Dental Appointment No-Shows: A Systematic Review of Machine Learning Applications. International Dental Journal, 76(5), 109749 [link](https://pubmed.ncbi.nlm.nih.gov/42468354/)
+- Cozmescu, A. F., Cernega, A., Didilescu, A. C., Imre, M. M., Dimitriu, B., & Pițuru, S. M. (2026). Administrative Perspectives on Digital Workflow Transformation and Artificial Intelligence Implementation in Dental Clinics. Dentistry Journal, 14(4), 206 [link](https://pubmed.ncbi.nlm.nih.gov/42041659/)
 
 
 </details>
 
 
 
+## Project 8
+<details>
+    <summary>  Diagram-as-Code AI Assistant  (Owner: Laura Cernau) <img  style="vertical-align:middle" src="project-images\dac.jpeg" alt="networks" width="100"/> 
+    </summary>
+
+### Diagram-as-Code AI Assistant 
+
+#### Scop
+Modern software architecture relies heavily on diagrams to communicate how a system is structured and how it fits into its environment. However, keeping documentation in sync with the code is often difficult and time-consuming. Generated diagrams also tend to stay at the code level (class diagrams, call graphs), which says little about the architecture itself. 
+
+#### Ideea de baza
+Design an AI-driven solution that generates architecture diagrams from natural language descriptions and/or source code, following the C4 model (Context, Containers, Components, Code). The focus should be on the architectural views: the system context, its containers (applications, services, databases, queues) and their components. Low-level views such as UML class diagrams should not be the main focus. The tool should support "diagram as code" approaches, generating structured diagram definitions rather than static images. 
+
+Generate C4 views at the appropriate level of abstraction:  
+- System Context: the system, its users and the external systems it interacts with 
+- Container: deployable or runnable units and the communication between them (protocols, APIs, data stores) 
+- Component: major building blocks inside a container and their responsibilities 
+- Supplementary views where useful: dynamic (runtime flows) and deployment diagrams 
+
+Generate diagrams from:  
+- Plain text architecture descriptions 
+- User stories 
+- Code repositories, by identifying services, APIs, data stores, messaging and external dependencies, and abstracting them into C4 elements 
+- Infrastructure-as-code (Terraform, Kubernetes manifests, docker-compose) as a source for container and deployment views 
+
+Output diagrams in formats such as:  
+- Structurizr DSL (preferred, since it is model-based and C4-native) 
+- C4-PlantUML 
+- Mermaid C4 diagrams 
+
+Keep the views consistent: generate a single underlying model from which all C4 levels are derived, so the views don't contradict each other. 
+
+**Advanced exploration (optional):** 
+- Integrate the solution into a GitHub merge request workflow to:  
+    - Automatically generate or update the C4 model when code changes 
+    - Comment on merge requests with the impacted views, highlighting new or removed containers, components and relationships 
+- Implement a Git hook that:  
+    - Validates architectural consistency before allowing a commit, for example by flagging an undeclared dependency between containers or a component bypassing a defined interface 
+    - Regenerates the affected views automatically when specific modules change 
+- Compare diagram generation from static code analysis with LLM-based semantic interpretation, particularly in how well each one abstracts from code to the right C4 level. 
+- Detect drift between the intended architecture (a hand-written C4 model) and the implemented architecture (one derived from code). 
+
+#### Bibliografie
+- Clemente, M., & Cândea, G. (2019). Software architecture documentation: A systematic mapping study. Journal of Systems and Software, 147, 124–147. [link](https://doi.org/10.1016/j.jss.2018.10.013)
+- Devlin, J., Chang, M.‑W., Lee, K., & Toutanova, K. (2019). BERT: Pre‑training of deep bidirectional transformers for language understanding. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL‑HLT), 4171–4186. [link](https://doi.org/10.18653/v1/N19-1423)
+- Jurafsky, D., & Martin, J. H. (2023). Speech and language processing (3rd ed., draft). Stanford University. [link](https://web.stanford.edu/~jurafsky/slp3/)
+- Richards, M., & Ford, N. (2020). Fundamentals of software architecture. O’Reilly Media. 
+- Reimers, N., & Gurevych, I. (2019). Sentence‑BERT: Sentence embeddings using Siamese BERT‑networks. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing. [link](https://arxiv.org/abs/1908.10084)
+
+</details>
+
+## Project 9
+<details>
+    <summary> Visual C4 Diagram Editor for VS Code with Company Modeling Rules (Owner: Laura Cernau, MARSH) <img  style="vertical-align:middle" src="project-images\c4-container.png" alt="networks" width="100"/> 
+    </summary>
+
+### Visual C4 Diagram Editor for VS Code with Company Modeling Rules 
+
+#### Scop
+Diagram-as-code formats such as Mermaid C4 are easy to version and review, but they are hard to write and read when diagrams grow: you can't see the result while editing the text, and adjusting the layout is tedious. Teams also tend to draw the same things differently. One person shows a third-party SaaS as an external system, another as a container, and internal systems end up with inconsistent naming, colors or boundaries. Without shared conventions, architecture diagrams across a company are hard to compare and trust. 
+
+#### Ideea de baza
+Develop a Visual Studio Code extension that provides a visual editor for Mermaid C4 diagrams, with two-way sync between the visual canvas and the underlying Mermaid code. The extension should include an assistant that helps users build diagrams according to a set of modeling rules defined by their company, for example how to represent internal systems, third-party systems, data stores or trust boundaries. 
+
+Visual editing:  
+- Render Mermaid C4 diagrams (Context, Container, Component, Dynamic, Deployment) in a VS Code webview 
+- Add, edit, move and connect elements (Person, System, Container, Component, Boundary, Rel) from a palette 
+- Two-way sync: changes on the canvas update the Mermaid code, and edits to the code refresh the canvas 
+- Edit element properties (name, technology, description, tags) through a side panel 
+
+Company modeling rules:  
+- Define rules in a configuration file kept in the repository (e.g., .c4rules.yaml or JSON), such as:  
+    - Internal systems use System, third-party systems use System_Ext with a "vendor" tag 
+    - Every container must declare its technology 
+    - Relationships must specify a protocol (HTTPS, gRPC, AMQP…) 
+    - Naming conventions, mandatory boundaries, allowed element types per diagram level 
+    - Styling conventions (colors and shapes per element category) 
+- Validate diagrams against the rules and show violations as VS Code diagnostics (squiggles, Problems panel) with quick fixes 
+
+Diagram assistant:  
+- Suggest the correct element type when a user adds something (e.g., "Stripe" → external system per company rules) 
+- Generate or extend a diagram from a natural language description while respecting the rules 
+- Explain why a rule applies and how to fix a violation 
+
+**Advanced exploration (optional):** 
+- Share rules across teams through a central rule repository or a published rule package. 
+- Provide a library of reusable, pre-approved elements (e.g., the company's identity provider or core platform services) that can be dragged into any diagram. 
+- Use auto-layout algorithms (e.g., ELK, Dagre) and let users pin positions manually. 
+- Run the same rule validation in CI so that merge requests with non-compliant diagrams are flagged. 
+- Compare rule enforcement through deterministic validation with LLM-based guidance, especially for rules that are hard to formalise. 
+
+#### Bibliografie
+
+
+</details>
+
+
+
+## Project 10
+<details>
+    <summary>  Clinical Trial Radar++: AI-Powered Recruitment Feasibility Prediction (Owner: Cristina Bogatean, Nagarro) <img  style="vertical-align:middle" src="project-images\clinicalTrial.png" alt="networks" width="100"/> 
+    </summary>
+
+### AI-Powered Recruitment Feasibility Prediction
+
+#### Scop
+Dezvoltarea unui sistem inteligent bazat pe inteligență artificială care să estimeze fezabilitatea unui studiu clinic încă din etapa de planificare, prin analizarea automată a informațiilor disponibile în registre publice de studii clinice. Sistemul va calcula indicatori precum durata estimată a recrutării, probabilitatea de atingere a țintei de înrolare și riscul de întârziere sau întrerupere a studiului, oferind totodată recomandări explicabile pentru optimizarea designului și a strategiei de recrutare.
+
+#### Ideea de baza
+Planificarea unui studiu clinic presupune numeroase decizii critice, precum alegerea țărilor și centrelor participante, definirea criteriilor de eligibilitate și estimarea numărului de pacienți care pot fi recrutați într-un interval de timp rezonabil. În practică, multe studii întâmpină dificultăți în recrutare, suferă întârzieri semnificative sau sunt chiar întrerupte prematur, generând costuri ridicate și întârzieri în dezvoltarea tratamentelor.
+
+Clinical Trial Radar++ își propune să transforme datele istorice disponibile în registre publice precum ClinicalTrials.gov într-un instrument predictiv capabil să răspundă la întrebarea: 
+„Poate acest studiu clinic să recruteze cu succes participanții necesari înainte de a fi lansat?” 
+Pentru a răspunde acestei întrebări, sistemul va construi un set de date la scară largă pornind de la studii clinice finalizate sau în desfășurare și va extrage atât informații structurate (boală, fază, număr planificat de participanți, țări implicate, sponsor, tip de intervenție), cât și informații nestructurate provenite din descrierea protocolului, criteriile de includere și excludere sau endpoint-urile studiului.
+
+Proiectul urmărește dezvoltarea unei arhitecturi hibride care combină modele Transformer pentru procesarea textului medical cu modele dedicate datelor tabulare și metadatelor studiului. Modelul rezultat va învăța relații complexe dintre caracteristicile protocolului și succesul recrutării, fiind capabil să prezică:
+- durata estimată a recrutării;
+- probabilitatea atingerii țintei de înrolare;
+- riscul de întârziere sau de terminare prematură;
+- gradul de dificultate al recrutării pentru diferite regiuni geografice.
+
+Pe lângă componenta predictivă, sistemul va integra mecanisme de Explainable AI pentru a evidenția factorii care influențează estimările generate. Astfel, utilizatorii vor putea înțelege de ce un studiu este considerat riscant și vor primi recomandări concrete privind:
+- selecția țărilor și a regiunilor cu potențial ridicat de recrutare;
+- optimizarea strategiei de recrutare;
+- simplificarea criteriilor de includere și excludere;
+- reducerea factorilor care au contribuit istoric la întârzieri sau eșecuri de recrutare.
+
+Rezultatul final va fi un instrument de suport decizional care combină analiza datelor istorice cu modele avansate de inteligență artificială pentru a ajuta sponsorii și organizațiile de cercetare clinică să proiecteze studii mai eficiente, cu risc redus și șanse mai mari de succes.
+
+#### Bibliografie
+Primary trial data
+•	ClinicalTrials.gov API v2: https://clinicaltrials.gov/data-api/about-api
+•	ClinicalTrials.gov bulk downloads: https://clinicaltrials.gov/data-download
+•	AACT (SQL-ready ClinicalTrials dataset): https://aact.ctti-clinicaltrials.org/
+•	AACT docs: https://aact.ctti-clinicaltrials.org/documentation
+Additional trial registries (open portals / datasets)
+•	EU Clinical Trials Register (public search): https://www.clinicaltrialsregister.eu/
+•	ISRCTN registry (public search): https://www.isrctn.com/
+Terminology + enrichment
+•	MeSH: https://www.nlm.nih.gov/mesh/meshhome.html
+•	MeSH downloads: https://www.nlm.nih.gov/databases/download/mesh.html
+•	PubMed E-utilities: https://www.ncbi.nlm.nih.gov/books/NBK25501/
+•	OpenAlex: https://openalex.org/
+•	NIH RePORTER: https://api.reporter.nih.gov/
+Optional feasibility proxies
+•	WHO GHO: https://www.who.int/data/gho
+•	World Bank: https://data.worldbank.org
+
+
+
+</details>
+
+## Project 11
+<details>
+    <summary>  Pharmacovigilance Signal Triage Copilot (Owner: Cristina Bogatean, Nagarro) <img  style="vertical-align:middle" src="project-images\pharmacovigilance.jpeg" alt="networks" width="100"/> 
+    </summary>
+
+### Pharmacovigilance Signal Triage Copilot
+
+#### Scop
+Dezvoltarea unui sistem inteligent bazat pe inteligență artificială care să sprijine activitățile de farmacovigilență prin identificarea timpurie, prioritizarea și explicarea semnalelor potențiale de siguranță asociate medicamentelor. Sistemul va analiza automat volume mari de rapoarte privind reacțiile adverse, va estima relevanța și riscul fiecărui semnal și va genera evidențe sintetizate și explicabile pentru a accelera procesul de evaluare realizat de experții în siguranță medicamentoasă.
+
+#### Ideea de baza
+Siguranța medicamentelor reprezintă o componentă esențială a sistemelor moderne de sănătate. După autorizarea unui medicament, informații noi despre reacțiile adverse pot apărea în urma utilizării sale pe scară largă, în populații diverse și în condiții reale de practică medicală. Din acest motiv, autoritățile de reglementare și companiile farmaceutice colectează permanent rapoarte privind reacțiile adverse provenite de la profesioniști din domeniul sănătății, pacienți și alte surse.
+
+În practică, volumul acestor date este foarte mare și continuă să crească. Rapoartele conțin frecvent informații incomplete, folosesc denumiri diferite pentru același medicament sau aceeași reacție adversă și pot include cazuri duplicate sau dificil de interpretat. În consecință, experții în farmacovigilență petrec un timp considerabil pentru curățarea datelor, identificarea semnalelor relevante și compilarea documentației necesare investigațiilor ulterioare.
+
+Pharmacovigilance Signal Triage Copilot își propune să funcționeze ca un asistent inteligent pentru procesul de triaj al semnalelor de siguranță, răspunzând la întrebarea: 
+„Care sunt semnalele medicament–eveniment care necesită atenție imediată și de ce?” 
+Sistemul va integra tehnici moderne de procesare a limbajului natural, analiză statistică și învățare automată pentru a transforma rapoartele brute într-o listă prioritizată de semnale. Procesul va include normalizarea denumirilor medicamentelor și a reacțiilor adverse, identificarea și eliminarea cazurilor duplicate, extragerea informațiilor relevante din descrieri textuale și calcularea unor indicatori standard utilizați în farmacovigilență.
+
+O direcție avansată a proiectului este dezvoltarea unui model AI capabil să învețe din istoricul semnalelor investigate anterior și să estimeze probabilitatea ca un nou semnal să fie relevant din punct de vedere clinic și regulator. Astfel, în locul unei simple liste bazate pe reguli fixe, sistemul poate genera un scor inteligent de prioritate, care combină frecvența raportărilor, severitatea evenimentelor, evoluția în timp și asemănările cu semnale deja confirmate.
+
+Pentru fiecare semnal identificat, sistemul va genera automat un Signal Packet, care include:
+- descrierea semnalului și contextul său;
+- evoluția temporală a raportărilor;
+- indicatori statistici relevanți;
+- exemple reprezentative de cazuri;
+- explicații generate automat privind motivele prioritizării;
+- recomandări pentru investigații suplimentare.
+
+Prin integrarea tehnicilor de Explainable AI, utilizatorii vor putea înțelege factorii care au contribuit la clasificarea și prioritizarea unui semnal, sporind încrederea în recomandările sistemului. 
+Rezultatul final va fi un instrument de suport decizional care reduce semnificativ timpul necesar procesului de triaj, crește șansele de detectare timpurie a problemelor de siguranță și permite experților să se concentreze asupra investigațiilor cu impact clinic ridicat, în loc să analizeze manual volume foarte mari de rapoarte neorganizate.
+
+#### Bibliografie
+Primary PV data
+•	openFDA FAERS API: https://open.fda.gov/apis/drug/event/
+•	FAERS background: https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-public-dashboard
+Drug normalization + open drug data
+•	RxNorm: https://lhncbc.nlm.nih.gov/RxNorm/
+•	DrugCentral (open drug database): https://drugcentral.org/
+•	ChEMBL (bioactivity + compounds): https://www.ebi.ac.uk/chembl/
+•	Open Targets (target-disease associations): https://platform.opentargets.org/
+
+Optional safety-related sources
+•	FDA Recalls (open): https://open.fda.gov/apis/food/enforcement/  (useful pattern for “alerts/recalls” style)
+•	PubMed E-utilities (literature): https://www.ncbi.nlm.nih.gov/books/NBK25501/
+
+</details>
+
+
+## Project 12
+<details>
+    <summary> AI pentru Terapii Personalizate (Owner Dr. Alexandra Pusta ) <img  style="vertical-align:middle" src="project-images\farma.jpg" alt="networks" width="100"/> 
+    </summary>
+
+### Sistem Inteligent pentru Detectarea și Cuantificarea Carboplatinei din Date Electrochimice
+
+#### Scop
+Dezvoltarea unui sistem inteligent care combină senzori electrochimici și modele avansate de AI/ML pentru detectarea, cuantificarea și monitorizarea carboplatinei în probe farmaceutice și sisteme de livrare controlată a medicamentelor. Sistemul va analiza automat semnale electrochimice (voltamograme, curbe curent-potențial etc.) și va estima concentrația medicamentului, oferind o alternativă rapidă, sensibilă și automatizată la metodele convenționale de analiză. 
+
+#### Ideea de baza
+Carboplatina este unul dintre cele mai utilizate medicamente chimioterapice pentru tratamentul mai multor tipuri de cancer. Pentru a reduce efectele adverse și pentru a crește eficiența terapeutică, aceasta este frecvent încapsulată în sisteme moderne de livrare, precum lipozomi sau nanosisteme. În astfel de aplicații este esențială monitorizarea precisă a proceselor de încărcare și eliberare a medicamentului, ceea ce necesită metode analitice rapide, sensibile și robuste. Cercetări recente au demonstrat că senzorii electrochimici bazați pe electrozi screen-printed permit detectarea eficientă a carboplatinei și pot fi utilizați pentru monitorizarea proceselor de eliberare din nanosisteme farmaceutice.
+
+Proiectul își propune să adauge o componentă de iAI/ML peste infrastructura clasică de detecție electrochimică. În locul utilizării exclusive a metodelor de procesare și interpretare tradiționale, sistemul va învăța direct din semnalele electrochimice generate de senzori. Mai concret, se vor colecta sau genera seturi de date formate din:
+voltamograme și curbe electrochimice asociate diferitelor concentrații de carboplatină; 
+parametri experimentali ai măsurătorilor; 
+date privind încărcarea și eliberarea carboplatinei din nanosisteme; 
+eventual date provenite de la senzori diferiți sau din condiții experimentale variate. 
+Pe baza acestor informații se vor dezvolta și compara modele de AI/ML capabile să estimeze concentrația carboplatinei direct din semnalul electrochimic. 
+O direcție avansată a proiectului constă în dezvoltarea unei arhitecturi originale pentru analiza datelor electrochimice, de exemplu:
+CNN-uri 1D pentru procesarea curbelor voltametrice; 
+Vision Transformers aplicate reprezentărilor grafice ale semnalelor;
+modele hibride CNN + Transformer; 
+autoencodere pentru învățarea automată a reprezentărilor semnalelor electrochimice.
+
+#### Bibliografie
+- Pusta, A., Tertis, M., Ardusadan, C., Mirel, S., & Cristea, C. (2024). Electrochemical Sensing Device for Carboplatin Monitoring in Proof-of-Concept Drug Delivery Nanosystems. Nanomaterials, 14(9), 793 [link](https://www.mdpi.com/2079-4991/14/9/793)
+- Qureshi, A., Shah, A., Iftikhar, F. J., Haleem, A., & Zia, M. A. (2024). Electrochemical analysis of anticancer and antibiotic drugs in water and biological specimens. RSC advances, 14(49), 36633-36655.
+- Bocan, A., Siavash Moakhar, R., del Real Mata, C., Petkun, M., De Iure‐Grimmel, T., Yedire, S. G., ... & Mahshid, S. (2025). Machine‐learning‐aided advanced electrochemical biosensors. Advanced Materials, 37(33), 2417520 [link](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202417520).
+</details>

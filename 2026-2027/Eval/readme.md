@@ -31,7 +31,7 @@ Detalii etape:
 
 - Functionalitati de baza ale aplicatiei - o app simpla care va integra AI-ul; pentru moment "predictia facuta de AI" e hard-codata manual (la final se va inlocui cu cel mai bun model obtinut)
 - Descrierea problemei rezolvate cu ajutorul AI (plastica si formala) - ce anume se rezolva, de ce e important, cine sunt utilizatorii, care sunt datele de intrare si iesire (ce tip de date se utilizeaza), cum se masoara performanta rezolvarii prolemei cu AI-ul
-- Related work & useful tools and technologies - se vor descrie pe scurt cel putin 2 * n (n e nr de membrii ai echipei) lucrari relevante (articole, bloguri, proiecte open-source) care au legatura cu problema rezolvata: se vor urmari detalii precum: 
+- Related work & useful tools and technologies - se vor descrie pe scurt cel putin 2 * $n$ ($n$ e nr de membrii ai echipei) lucrari relevante (articole, bloguri, proiecte open-source) care au legatura cu problema rezolvata: se vor urmari detalii precum: 
     - ce date s-au folosit, 
     - ce algoritmi de AI s-au folosit
     - ce performante s-au obtinut 
@@ -43,7 +43,7 @@ Detalii etape:
 
 - se va cauta un set de date mic care sa fie relevant pentru problema propusa - de preferat un set de date real dar mic (ex: 100-200 de exemple); se va descrie sursa datelor si modul in care au fost colectate; daca se foloseste un set de date real, se vor respecta toate regulile etice si legale privind utilizarea datelor (ex: GDPR, drepturi de autor, etc.)
 - se va alege un algoritm de AI (machine learning/deep learning) care sa rezolve problema propusa; se va implementa si antrena un model folosind un set mic de date (small data) - de exemplu, un set de date sintetic, sau un set de date real dar mic (ex: 100-200 de exemple); se poate porni antrenarea de la 0 sau se poate folosi transfer learning (pornind de la un model pre-antrenat pe un set de date similar cu cel folosit in proiect)
-- descriere si scurta EDA a datelor
+- exploratory data analysis
 - Descriere algoritm inteligent - se va descrie pe scurt algoritmul ales, motivatia alegerii lui, librariile folosite, etc.
 - Descriere metodologie experimentala si rezultate obtinute - se vor descrie detalii precum: 
     - cum s-a impartit setul mic de date (train/val/test), 
