@@ -1,7 +1,7 @@
 
 # Teme de proiect MIRPR 2026-2027
 
-## Project 1
+## Proiect 1
 
 <details>
     <summary> Mai multe perspective, un singur diagnostic: AI pentru detectarea precoce a cancerului pulmonar  (owner: dl. dr. Andrei Roman) 
@@ -41,7 +41,7 @@ Problema poate fi abordata ca o problema de clasificare multi-label.
 
 </details>
 
-## Project 2
+## Proiect 2
 <details>
     <summary> AI pentru sănătatea femeilor: Identificarea cancerului de san  (owner: dl. dr. Andrei Roman) 
         <img src="project-images\breastCancer.jpeg" width="100">
@@ -85,7 +85,7 @@ Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate
 
 
 
-## Project 3
+## Proiect 3
 <details>
     <summary> Vocea care scrie: Automatizarea intocmirii fisei pacientului  (owner: dna. dr. Alina Baciu) 
     <img src="project-images\voice.avif" width="150">
@@ -117,7 +117,7 @@ Se va pleca de la inregistrari audio precum [aceasta](projects/voice2text/test1.
 </details>
 
 
-## Project 4
+## Proiect 4
 <details>
     <summary>  De la interfața cutanată la simulator digital cardiac: optimizarea asistată de inteligență artificială a senzorilor ECG purtabili imprimați 3D (Owner: dl. dr. Dan Blendea, prof. dr. Zoltan Balint) <img  style="vertical-align:middle" src="project-images\smartWatch.png" alt="networks" width="100"/> </summary>
 
@@ -146,7 +146,7 @@ https://www.researchgate.net/publication/378021834_Analysis_of_Fitness_Based_on_
 </details>
 
 
-## Project 5
+## Proiect 5
 <details>
     <summary>  Simulator digital al valvei mitrale asistat de inteligență artificială pentru simularea intervențiilor virtuale în regurgitarea mitrală funcțională  (Owner: dl. dr. Dan Blendea, prof. dr. Zoltan Balint) <img  style="vertical-align:middle" src="project-images\AI-Mitral-Valve-Digital-Twin.png" alt="networks" width="100"/> </summary>
 
@@ -178,7 +178,7 @@ Componenta AI poate fi utilizată pentru: segmentarea imaginilor ecografice sau 
 
 
 
-## Project 6
+## Proiect 6
 <details>
     <summary>  AI pentru zâmbete: Identificarea tumorilor osoase maxofaciale (Owner: dna. dr. Mihaela Hedesiu) <img  style="vertical-align:middle" src="project-images\stoma1.jpg" alt="networks" width="100"/> 
     </summary>
@@ -217,7 +217,7 @@ Chen, J., Mei, J., Li, X., Lu, Y., Yu, Q., Wei, Q., ... & Zhou, Y. (2024). Trans
 </details>
 
 
-## Project 7
+## Proiect 7
 <details>
     <summary>  Simulator digital pentru practica dentara (Owner: dna. dr. Mihaela Hedesiu) <img  style="vertical-align:middle" src="project-images\stoma2.jpg" alt="networks" width="100"/> 
     </summary>
@@ -262,7 +262,7 @@ Sistemul poate funcționa ca un instrument de tip "what-if analysis".
 
 
 
-## Project 8
+## Proiect 8
 <details>
     <summary>  Diagram-as-Code AI Assistant  (Owner: Laura Cernau) <img  style="vertical-align:middle" src="project-images\dac.jpeg" alt="networks" width="100"/> 
     </summary>
@@ -313,7 +313,7 @@ Keep the views consistent: generate a single underlying model from which all C4 
 
 </details>
 
-## Project 9
+## Proiect 9
 <details>
     <summary> Visual C4 Diagram Editor for VS Code with Company Modeling Rules (Owner: Laura Cernau, MARSH) <img  style="vertical-align:middle" src="project-images\c4-container.png" alt="networks" width="100"/> 
     </summary>
@@ -360,7 +360,7 @@ Diagram assistant:
 
 
 
-## Project 10
+## Proiect 10
 <details>
     <summary>  Clinical Trial Radar++: AI-Powered Recruitment Feasibility Prediction (Owner: Cristina Bogatean, Nagarro) <img  style="vertical-align:middle" src="project-images\clinicalTrial.png" alt="networks" width="100"/> 
     </summary>
@@ -414,7 +414,7 @@ Optional feasibility proxies
 
 </details>
 
-## Project 11
+## Proiect 11
 <details>
     <summary>  Pharmacovigilance Signal Triage Copilot (Owner: Cristina Bogatean, Nagarro) <img  style="vertical-align:middle" src="project-images\pharmacovigilance.jpeg" alt="networks" width="100"/> 
     </summary>
@@ -463,7 +463,7 @@ Optional safety-related sources
 </details>
 
 
-## Project 12
+## Proiect 12
 <details>
     <summary> AI pentru Terapii Personalizate (Owner Dr. Alexandra Pusta ) <img  style="vertical-align:middle" src="project-images\farma.jpg" alt="networks" width="100"/> 
     </summary>
