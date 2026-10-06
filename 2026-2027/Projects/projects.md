@@ -511,7 +511,7 @@ autoencodere pentru învățarea automată a reprezentărilor semnalelor electro
 </details>
 
 
-##Project 13 
+## Project 13 
 <details>
     <summary> LLM Security Guardian: OWASP Top 10 for LLM Applications Checker (Owner: Laura Cernau, Marsh) <img  style="vertical-align:middle" src="project-images\?.jpg" alt="networks" width="100"/> 
     </summary>
