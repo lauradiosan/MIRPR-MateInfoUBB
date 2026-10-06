@@ -219,6 +219,22 @@ Chen, J., Mei, J., Li, X., Lu, Y., Yu, Q., Wei, Q., ... & Zhou, Y. (2024). Trans
 
 ## Proiect 7
 <details>
+    <summary>  Identificarea leziunilor in dintii temporari si cei permanenti la copii(Owner: dna. dr. Mihaela Hedesiu) <img  style="vertical-align:middle" src="project-images\stoma2.jpg" alt="networks" width="100"/> 
+    </summary>
+
+### Identificarea leziunilor in dintii temporari si cei permanenti la copii
+
+#### Scop
+
+#### Ideea de baza
+
+#### Data
+
+#### Bibliografie
+
+
+
+<!-- <details>
     <summary>  Simulator digital pentru practica dentara (Owner: dna. dr. Mihaela Hedesiu) <img  style="vertical-align:middle" src="project-images\stoma2.jpg" alt="networks" width="100"/> 
     </summary>
 
@@ -256,7 +272,7 @@ Sistemul poate funcționa ca un instrument de tip "what-if analysis".
 
 - Khashwayn, S., Bakhashwayn, M., & Alsubaie, A. (2026). Managing Dental Appointment No-Shows: A Systematic Review of Machine Learning Applications. International Dental Journal, 76(5), 109749 [link](https://pubmed.ncbi.nlm.nih.gov/42468354/)
 - Cozmescu, A. F., Cernega, A., Didilescu, A. C., Imre, M. M., Dimitriu, B., & Pițuru, S. M. (2026). Administrative Perspectives on Digital Workflow Transformation and Artificial Intelligence Implementation in Dental Clinics. Dentistry Journal, 14(4), 206 [link](https://pubmed.ncbi.nlm.nih.gov/42041659/)
-
+ -->
 
 </details>
 
@@ -493,3 +509,49 @@ autoencodere pentru învățarea automată a reprezentărilor semnalelor electro
 - Qureshi, A., Shah, A., Iftikhar, F. J., Haleem, A., & Zia, M. A. (2024). Electrochemical analysis of anticancer and antibiotic drugs in water and biological specimens. RSC advances, 14(49), 36633-36655.
 - Bocan, A., Siavash Moakhar, R., del Real Mata, C., Petkun, M., De Iure‐Grimmel, T., Yedire, S. G., ... & Mahshid, S. (2025). Machine‐learning‐aided advanced electrochemical biosensors. Advanced Materials, 37(33), 2417520 [link](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202417520).
 </details>
+
+
+##Project 13 
+<details>
+    <summary> LLM Security Guardian: OWASP Top 10 for LLM Applications Checker (Owner: Laura Cernau, Marsh) <img  style="vertical-align:middle" src="project-images\?.jpg" alt="networks" width="100"/> 
+    </summary>
+
+### Sistem Inteligent pentru Detectarea și Cuantificarea Carboplatinei din Date Electrochimice
+
+#### Scop 
+More and more applications embed large language models through chatbots, RAG pipelines, agents and copilots. These integrations add new kinds of vulnerabilities that traditional static analysis tools don't detect, such as prompt injection, leaked system prompts and over-privileged agents. The OWASP Top 10 for LLM Applications catalogues these risks, but checking a codebase against it is still largely manual. 
+
+#### Ideea de baza
+Design an AI-driven solution that analyses a code repository and reports whether it follows the OWASP Top 10 for LLM Applications. For each violation or weakness, it should give the file and line, an explanation, the severity, and a suggested fix. 
+Detect risks such as:  
+- Prompt injection: user input concatenated into prompts without separation or sanitisation 
+- Sensitive information disclosure: secrets, PII or internal data sent to the model or returned in responses 
+- Supply chain: unpinned or unverified models, plugins and dependencies 
+- Improper output handling: LLM output passed directly to eval, SQL, shell commands or HTML rendering 
+- Excessive agency: agents with broad tool permissions, write or delete access, or no human approval step 
+- System prompt leakage: credentials or business logic embedded in system prompts 
+- Vector and embedding weaknesses: RAG stores without access control or tenant isolation 
+- Unbounded consumption: missing rate limits, token caps or timeouts 
+
+Support several common stacks, for example:  
+- Python (LangChain, LlamaIndex, OpenAI or Anthropic SDKs) 
+- TypeScript or Node.js (Vercel AI SDK, LangChain.js) 
+
+Produce output as:  
+- A structured report (SARIF, JSON or Markdown) 
+- A compliance scorecard per OWASP category 
+
+Advanced exploration: 
+- Integrate the checker into a GitHub merge request workflow to:  
+    - Scan only the changed code and comment inline on risky lines 
+    - Block merges when critical findings are present 
+- Generate remediation patches automatically, such as input guards, output encoding or permission scoping. 
+- Build a small deliberately vulnerable LLM app as a benchmark and measure detection rates. 
+- Compare rule-based detection (Semgrep or CodeQL rules) with LLM-based semantic analysis, and with a hybrid of the two. 
+- Add dynamic testing: generate adversarial prompts against the running app to confirm whether static findings can actually be exploited. 
+
+#### Bibliografy
+- Fourati, L. C., Awad, M., Ben Ali, M., & Jaafar, W. (2026). Large language models for cyberattack defense: a critical survey: L. Fourati et al. Knowledge and Information Systems, 68(1), 113 [link](https://dl.acm.org/doi/10.1007/s10115-026-02736-y).
+- Wang, X., Huang, K., Liang, B., Li, H., & Du, X. (2026, March). Shadows in the Code: Exploring the Risks and Defenses of LLM-based Multi-Agent Software Development Systems. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 40, No. 44, pp. 37970-37978) [link](https://dl.acm.org/doi/10.1609/aaai.v40i44.41134).
+</details>
+
