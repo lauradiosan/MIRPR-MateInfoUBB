@@ -219,19 +219,36 @@ Chen, J., Mei, J., Li, X., Lu, Y., Yu, Q., Wei, Q., ... & Zhou, Y. (2024). Trans
 
 ## Proiect 7
 <details>
-    <summary>  Identificarea leziunilor in dintii temporari si cei permanenti la copii(Owner: dna. dr. Mihaela Hedesiu) <img  style="vertical-align:middle" src="project-images\stoma2.jpg" alt="networks" width="100"/> 
+    <summary>  Identificarea leziunilor in dintii temporari si cei permanenti la copii(Owner: dna. dr. Mihaela Hedesiu) <img  style="vertical-align:middle" src="project-images\stomaCopii.png" alt="networks" width="100"/> 
     </summary>
 
-### Identificarea leziunilor in dintii temporari si cei permanenti la copii
+### Detecția leziunilor odontale ale dinților temporari
 
 #### Scop
+Dezvoltarea unei platforme AI pentru detectarea, caracterizarea și evaluarea prognostică a leziunilor odontale la copii, utilizând radiografii panoramice (OPT) și informații clinice asociate, în vederea sprijinirii deciziilor terapeutice în stomatologia pediatrică.
 
 #### Ideea de baza
 
+Caria dentară și complicațiile acesteia reprezintă una dintre cele mai frecvente afecțiuni la copii, iar evaluarea severității leziunilor și alegerea tratamentului optim depind de interpretarea corectă a investigațiilor radiologice. Proiectul urmărește dezvoltarea unei platforme AI capabile să analizeze automat radiografii panoramice pentru identificarea și caracterizarea leziunilor odontale la dinții temporari și permanenți, inclusiv localizarea acestora, profunzimea afectării (smalț, dentină superficială, dentină profundă), prezența obturațiilor asociate, gradul de distrucție coronară și implicarea furcației. Pe baza acestor informații și a datelor clinice disponibile, vor fi dezvoltate modele predictive pentru estimarea probabilității de afectare pulpară și a prognosticului dintelui, inclusiv probabilitatea succesului tratamentului conservator versus necesitatea extracției. Platforma poate constitui baza pentru viitoare gemeni digitali ai sănătății orale pediatrice, capabili să simuleze evoluția leziunilor și să sprijine planificarea personalizată a tratamentului.
+
+In cele 1000-1500 radiografii panoramice (OPT) se pot executa sarcini de:
+- Detecție:
+    - Leziuni odontale: localizare (suprafața dentară), profunzime (smalț, dentină superficial, dentină profund)
+    - Obturații +- carie
+    - Grad de distrucție coronară > 50%
+    - Implicarea furcației
+- Predicție:
+    - Probabilitate de afectare pulpară (%)
+    - Rata de supraviețuire: tratament coservativ/extracție
+
 #### Data
+- [link1](https://zenodo.org/records/15487430)
 
 #### Bibliografie
-
+- Bhoopalan, R., Mirdula, S., Kannusamy, P., Gayathri, D., Manikandan, D., & Ramaswamy, K. (2026). A self attention based deep learning framework for accurate and efficient dental disease detection in OPG radiographs. Scientific Reports, 16(1), 5914.
+- Mutlu, O., Aslan, E., & Mert, A. (2026). Deep Learning–Based Automated Diagnostic Charting on Panoramic Radiography: Comparison of YOLOv11 and YOLOv12. Odontology, 1-11.
+- Barua, P., Yeahea, M. A. F., Rashid, R. N., Islam, M. R., Zaman, M. U., Alqhtani, N. R., ... & Alam, M. K. (2026). YOLO-TeethSeg: a resource-efficient approach to multi-class teeth instance segmentation using lightweight YOLO-based models. Biomedical Signal Processing and Control, 120, 109952.
+- Mahizha, S. I., Annrose, J., & Mano Christaine Angelo, J. (2026). SwinDent-Seg: Hybrid Swin transformer-CNN with cross-scale feature fusion for automated detection and segmentation of dental pathologies in panoramic radiographs. Journal of X-Ray Science and Technology, 08953996261478470.
 
 
 <!-- <details>
