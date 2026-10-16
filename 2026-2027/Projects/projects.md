@@ -59,12 +59,14 @@ Această problemă trebuie rezolvată folosind un algoritm inteligent, deoarece 
 Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate pe arhitecturi de tip Transformer/GNN pentru a identifica tumori maligne si benigne in imagini. Modelele folosite pot fi pre-antrenate pe alte seturi de date si fine-tunate pe setul de date cu mamografii.
 
 #### Data
+- Metastaze [link](https://www.cancerimagingarchive.net/collection/tcga-brca/)
 - MIAS [link](http://peipa.essex.ac.uk/info/mias.html)
 - DDSM [link](http://www.eng.usf.edu/cvprg/Mammography/Database.html) or [link](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
 - INbreast  [link](https://www.kaggle.com/datasets/tommyngx/inbreast2012)
 - DBT - [link](https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt/)
 
 #### Bibliografie
+- AI Tool May Detect Metastatic Breast Cancer in MRI [link](https://www.appliedradiology.com/news/ai-tool-may-detect-metastatic-breast-cancer-in-mri)
 - Graph CNNs 
     - PyG [link](https://github.com/pyg-team/pytorch_geometric) 
     - Graph Learning resources [link](https://snap.stanford.edu/graphlearning-workshop/)
