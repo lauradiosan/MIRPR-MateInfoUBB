@@ -65,7 +65,7 @@ Un accent deosebit va fi alocat:
 - identificarea nodulilor axiali responsabili de raspandirea celulelor canceroase in restul organismului [details](https://www.ypo.education/general/axillary-clearance-t436/video/)
 
 #### Data
-- Sani adiposi [link](https://www.kaggle.com/datasets/97be88461c7dc4fb07a94fe462e3fb00521d497ac6e52f97f4c7c424d38940d5)
+- Sani adiposi [imagini](https://www.kaggle.com/datasets/97be88461c7dc4fb07a94fe462e3fb00521d497ac6e52f97f4c7c424d38940d5) si [metadate](https://docs.google.com/spreadsheets/d/1gawjeHl1pnKJKeMtwB6n2UG1WJF_yUKrigP63mgkYY4/edit?usp=sharing)
 - Sani densi [link](https://www.kaggle.com/datasets/bajcsiadel96/romanian-dense-breast-mammography-collection?select=README.md)
 - Metastaze [link](https://www.cancerimagingarchive.net/collection/tcga-brca/)
 - MIAS [link](http://peipa.essex.ac.uk/info/mias.html)
