@@ -58,7 +58,15 @@ Această problemă trebuie rezolvată folosind un algoritm inteligent, deoarece 
 
 Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate pe arhitecturi de tip Transformer/GNN pentru a identifica tumori maligne si benigne in imagini. Modelele folosite pot fi pre-antrenate pe alte seturi de date si fine-tunate pe setul de date cu mamografii.
 
+Un accent deosebit va fi alocat:
+- sanilor cu tesut dens <img src="project-images\breast-density.webp" width="100"> <img src="project-images\dense-cancer.png" width="185"> 
+- sanilor cu tesut adipos <img src="project-images\breast-adipose.webp" width="200"> <img src="project-images\breast-adipose.jpg" width="200">
+
+- identificarea nodulilor axiali responsabili de raspandirea celulelor canceroase in restul organismului [details](https://www.ypo.education/general/axillary-clearance-t436/video/)
+
 #### Data
+- Sani adiposi [link](https://www.kaggle.com/datasets/97be88461c7dc4fb07a94fe462e3fb00521d497ac6e52f97f4c7c424d38940d5)
+- Sani densi [link](https://www.kaggle.com/datasets/bajcsiadel96/romanian-dense-breast-mammography-collection?select=README.md)
 - Metastaze [link](https://www.cancerimagingarchive.net/collection/tcga-brca/)
 - MIAS [link](http://peipa.essex.ac.uk/info/mias.html)
 - DDSM [link](http://www.eng.usf.edu/cvprg/Mammography/Database.html) or [link](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
