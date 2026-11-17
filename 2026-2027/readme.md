@@ -9,7 +9,7 @@
 - [Computer vision - image detection](Lectures/06_imgDetection.ppt)
 - [Computer vision - image segmentation](Lectures/07_imgSegmentation.ppt)
 - [Computer vision - Visual transformer](Lectures/code/08_myViTflow.ipynb) [Vit tiny](Lectures/code/08_vit_tiny.ipynb) [Text transformer](07_transformer.pdf)
-- [Computer vision - stable diffusion](Lectures/Stable Diffusion_MIRPR_2026.pptx)
+- [Computer vision - stable diffusion](Lectures/StableDiffusion_MIRPR_2026.pptx)
 
 
 ## Detalii proiecte
