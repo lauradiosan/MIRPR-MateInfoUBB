@@ -1,8 +1,16 @@
 # MIRPR-2026-2027
 
 ## Materiale curs
-- Sapt 1: [Introducere](Lectures/00_intro.pdf)
-- Sapt 2: 
+- [Introducere](Lectures/00_intro.ppt)
+- [Computer vision - intro](Lectures/code/02_imgProcessingAttributes.ipynb)
+- [Computer vision - image attributes](Lectures/code/02_imgProcessingAttributes.ipynb)
+- [Computer vision - image classification](Lectures/code/03_imgClassification.ipynb)
+- [Computer vision - image classification & deep learning](Lectures/code/04_deepLearningWithExamples.ipynb)
+- [Computer vision - image detection](Lectures/06_imgDetection.ppt)
+- [Computer vision - image segmentation](Lectures/07_imgSegmentation.ppt)
+- [Computer vision - Visual transformer](Lectures/code/08_myViTflow.ipynb) [Vit tiny](Lectures/code/08_vit_tiny.ipynb) [Text transformer](07_transformer.pdf)
+- [Computer vision - stable diffusion](Lectures/Stable Diffusion_MIRPR_2026.pptx)
+
 
 ## Detalii proiecte
 
@@ -44,4 +52,4 @@ Trebuie realizate
 **Criterii de evaluare**
 Detalii despre continutul evaluarii si termenele de predare intermediare se gasesc [aici](Eval/readme.md)
 
-Situatie punctaje - [link]()
+Situatie punctaje - [link](https://ubbcluj-my.sharepoint.com/:x:/g/personal/laura_diosan_ubbcluj_ro/cQoW2qCL57iBRriPqvuNNXz4EgUCOsILxzU68XeWt0p8eH0A6A)
